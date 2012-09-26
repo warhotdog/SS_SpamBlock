@@ -1,0 +1,6 @@
+[26-Sep-2012 00:15:45] Notice at \SpamBlock\code\SpamBlock.php line 34: Undefined variable: threattype (http://localhost:82/SS3/)
+[26-Sep-2012 00:15:45] Notice at \framework\control\Director.php line 283: 210.213.245.230  (http://localhost:82/SS3/)
+[26-Sep-2012 00:15:45] Notice at \SpamBlock\code\SpamBlock.php line 34: Undefined variable: threattype (http://localhost:82/SS3/)
+[26-Sep-2012 00:15:45] Notice at \framework\control\Director.php line 283: 210.213.245.230  (http://localhost:82/SS3/)
+[26-Sep-2012 00:16:00] Notice at \framework\control\Director.php line 283: 210.213.245.230 Suspicious & Harvester & Comment Spammer (http://localhost:82/SS3/)
+[26-Sep-2012 00:16:01] Notice at \framework\control\Director.php line 283: 210.213.245.230 Suspicious & Harvester & Comment Spammer (http://localhost:82/SS3/)

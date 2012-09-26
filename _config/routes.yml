@@ -1,0 +1,7 @@
+---
+Name: spamblock
+#Before: 'cms/routes#legacycmsroutes'
+---
+Director:
+  rules:
+    '': 'SpamBlock'
